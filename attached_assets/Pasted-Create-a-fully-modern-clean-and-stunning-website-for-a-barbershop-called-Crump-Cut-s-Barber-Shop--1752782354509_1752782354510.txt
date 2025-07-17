@@ -1,0 +1,117 @@
+Create a fully modern, clean, and stunning website for a barbershop called Crump Cut’s Barber Shop. The design should emphasize bold, cutting-edge visuals with an ultra-modern blue-themed color palette (deep navy, sky blues, gradients, etc.).
+
+🧨 Key Requirements:
+Tons of animations:
+
+Add scroll-triggered animations, hover effects, reveal-on-scroll, animated transitions between sections, and micro-interactions.
+
+Animations should be done with libraries like Framer Motion, GSAP, or AOS.js (or use all for variety).
+
+Make it visually active — a lot of smooth, elegant, stylish animations.
+
+Modern UI:
+
+Use rounded buttons, modern typography (e.g., Poppins, Urbanist, or Inter), and glassmorphism or neumorphism where appropriate.
+
+Smooth gradients, soft shadows, glowing effects, layered elements.
+
+Include sticky nav, animated hero section, dynamic appointment CTA, and interactive elements.
+
+Page Sections:
+
+Landing/Hero Section:
+
+Fullscreen background or video loop (optional).
+
+Animated headline with fade-in and parallax elements.
+
+“Book Now” CTA (animated button, round, glowing on hover).
+
+About the Shop:
+
+google maps : {https://www.google.com/maps/place/Crump+Cut's+barber+shop/@41.2814168,-95.9898998,17z/data=!4m15!1m8!3m7!1s0x87938d40cefecce7:0xb0304227477dcd8b!2sCrump+Cut's+barber+shop!8m2!3d41.281321!4d-95.9899226!10e5!16s%2Fg%2F11swd90j63!3m5!1s0x87938d40cefecce7:0xb0304227477dcd8b!8m2!3d41.281321!4d-95.9899226!16s%2Fg%2F11swd90j63?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D}
+
+Opening Hours (animated cards or timeline):
+
+Thursday–Saturday & Tuesday–Wednesday: 9 a.m.–6:30 p.m.
+
+Sunday & Monday: Closed
+
+Location & Contact (with animation):
+
+Address: 4965 NW Radial Hwy, Omaha, NE 68104, United States
+
+Phone: +1 (402) 359-1782
+
+Gallery Section:
+
+Show off barbershop photos with animated image grid or slider.
+
+Add lightbox animation on click.
+
+Booking CTA Section:
+
+Sticky or floating “Book Appointment” button with bounce/scale animation.
+
+Optional: Embed calendar or booking form (placeholder okay).
+
+Footer:
+
+Social media icons (animated hover effects)
+
+Location pin, phone icon, and operating hours — animated on scroll.
+
+✨ Bonus Touches:
+Use Tailwind CSS or styled-components if using React.
+
+Animate SVG icons, add loading animations, and make buttons interactive.
+
+Everything must look premium, animated, responsive, and sleek.
+
+Mobile responsive with slide-in menus and touch animations.
+
+This website should feel like a modern design agency portfolio site, but for a high-end barbershop.
+
+Let me know if you'd like me to generate starter code or build a Figma design layout too!
+
+
+also : 
+
+✂️ 6. SERVICES PAGE
+Create a dedicated, highly animated Services page with 6 distinct service cards, all styled modern, interactive, and scroll-animated. Use floating icons or SVGs, hover animations, and smooth entry transitions.
+
+Each service card should be:
+
+Fully rounded with soft shadows.
+
+Scroll-animated (fade, scale, slide).
+
+Hover-animated (glow, slight lift).
+
+Includes a title, short description, and optional price.
+
+A “Book This” button on each with animated effect.
+
+💈 List of 6 Services:
+Classic Haircut
+Clean, sharp cuts for all hair types — fade or traditional.
+(Icon: scissors)
+
+Skin Fade
+Precision high, mid, or low skin fades with razor detailing.
+(Icon: razor blade)
+
+Beard Trim & Line-Up
+Detailed beard sculpting and razor-sharp lines.
+(Icon: beard or face)
+
+Hot Towel Shave
+Traditional straight-razor shave with hot towel treatment.
+(Icon: towel/steam)
+Kids Cuts
+Gentle, stylish cuts for children. Fun & friendly.
+(Icon: child or smiley face)
+
+Custom Hair Designs
+Artistic linework and hair tattoos. Unique, personalized.
+(Icon: star or artistic pattern)
